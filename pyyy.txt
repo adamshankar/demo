@@ -2,3 +2,4 @@ name = "Adam"
 print(f"Hello {name}")
 print (fhello(adam)")
 print (fhello(shankar)")
+print (fhello(karthi)")
